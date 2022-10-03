@@ -1,0 +1,13 @@
+{
+  "logdir": "./logs\\checkpoints",
+  "topk": 1,
+  "loader_key": "valid",
+  "metric_key": "loss",
+  "minimize": true,
+  "storage": [
+    {
+      "logpath": "./logs\\checkpoints/model.0008.pth",
+      "metric": 0.16364325985114395
+    }
+  ]
+}
